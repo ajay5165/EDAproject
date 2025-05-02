@@ -1,1 +1,2 @@
 # EDAproject
+The dataset provides detailed information about traffic violations in India. It includes various attributes such as violation type, fine amount, location, vehicle details, driver demographics, and environmental conditions. This dataset can be used to analyze traffic patterns, identify common violations, and understand factors contributing to traffic offenses. It also provides insights into the effectiveness of enforcement agencies and the impact of road and weather conditions on traffic violations.
